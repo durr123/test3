@@ -47,7 +47,7 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1"> Messaging Apps Archiving </h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1"> Messaging App Archiving </h4>
               <p className="text-gray-600 text-center">SMS, Messenger, WhatsApp, Signal and other messaging app archiving.</p>
             </div>
 
